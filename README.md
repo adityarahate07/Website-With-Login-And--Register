@@ -45,7 +45,7 @@ project/
 
 Here is the preview of the Login & Registration page:
 
-![Login Page Preview](/Login.png)
+![Login Page Preview](/Login.jpeg)
 
 > 📌 Make sure your image is inside **screenshots/Login.jpeg** so it displays correctly on GitHub.
 
