@@ -42,7 +42,7 @@ project/
 
 ## 📸 Screenshot
 
-> 📌 Add your screenshot file in project folder with name **Login.jpeg**
+> 📌 Add your screenshot file in project folder with name **Login.png**
 
 ---
 
