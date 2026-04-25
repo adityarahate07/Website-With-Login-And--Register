@@ -35,14 +35,19 @@ project/
 │── script.js
 │── images/
 │     └── background.jpeg
-│── screenshot.png
+│── screenshots/
+│     └── Login.jpeg
 ```
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot Preview
 
-> 📌 Add your screenshot file in project folder with name **Login.png**
+Here is the preview of the Login & Registration page:
+
+![Login Page Preview](/Login.png)
+
+> 📌 Make sure your image is inside **screenshots/Login.jpeg** so it displays correctly on GitHub.
 
 ---
 
@@ -67,10 +72,11 @@ project/
 
 ## 👨‍💻 Author
 
-* Aditya Rahate
+* Your Name
 
 ---
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
